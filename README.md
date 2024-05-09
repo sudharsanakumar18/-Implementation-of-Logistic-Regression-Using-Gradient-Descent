@@ -112,3 +112,7 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Profit Prediction:
 ![image](https://github.com/Girithickrohan/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/138849207/b3110a61-8025-4b35-9ed7-7074b8dc2678)
+
+## Result:
+Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
+
